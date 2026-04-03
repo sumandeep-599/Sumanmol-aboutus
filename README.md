@@ -134,15 +134,8 @@ h1, h2 {
     }
   </style>
 </head>
-<body>
-
-  <!-- Header -->
-  <header>
-    <div class="logo">
-      <img src="https://via.placeholder.com/220x80/000000/FFD700?text=Sumanmol+Jewellers" 
-           alt="Sumanmol Jewellers Logo">
-    </div>
-  </header>
+<body> 
+</body>
 
   <!-- Breadcrumb -->
   <div class="breadcrumb" style="text-align:center;">
