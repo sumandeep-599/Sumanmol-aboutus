@@ -3,9 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Sumanmol Jewellers | Premium Gold Patra Jewellery in Shri Muktsar Sahib</title>
-  <meta name="description" content="Sumanmol Jewellers - Leading manufacturer of high-quality hallmarked gold Patra (thin sheet) jewellery in Shri Muktsar Sahib, Punjab. Traditional & Modern Designs."/>
-
+  
   <style>
     * {
       margin: 0;
