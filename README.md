@@ -144,7 +144,7 @@ h1, h2 {
 
     <!-- About Section -->
     <section class="section">
-      <div class="diamond-icon">💎✨</div>
+      <div class="diamond-icon">💍</div>
       <h1>Crafting Timeless Elegance</h1>
       
       <div class="content">
